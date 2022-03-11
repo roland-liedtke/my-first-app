@@ -16,6 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React and Redux
+          Learn React and Git
         </a>
       </header>
     </div>
